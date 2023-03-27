@@ -1,0 +1,13 @@
+{
+    "User": true,
+    "Users": true,
+    "Migrate": true,
+    "Request": true,
+    "LoginRequest": true,
+    "Admin": true,
+    "Categories": true,
+    "Brands": true,
+    "Products": true,
+    "Colors": true,
+    "Slider": true
+}
